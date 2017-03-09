@@ -7,7 +7,7 @@ public class Proyecto1_Unidad1 {
         int d=0,m=0,a=0;
         String cad="";
         MetodosFecha.LlenarBisiestos(abisiestos);
-        System.out.println("Ingresa una fecha en numero y te dire el dia siguiente de esa fecha");
+        System.out.println("Ingresa la fecha del dia de hoy en numero y te dare la fecha del dia siguiete");
         System.out.println("ingresa el dia:");
         d=leer.nextInt();
         System.out.println("ingresa el mes");
